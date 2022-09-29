@@ -1,10 +1,10 @@
 # KODAL MARKETING APP
-   ###### Bu projede neler kullandım...
+###### Bu projede neler kullandım...
 
-   - Firebase
-- John Adams
-- Thomas Jefferson
-- 
+   - Firebase Auth
+   - Firebase Firestore
+   - Jetpack Navigation Component
+
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74530692/193116863-bbf70bee-e827-46ee-9478-d2b2319fcc1b.png" width="256" height="455">
