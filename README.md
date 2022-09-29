@@ -1,5 +1,5 @@
 # KODAL MARKETING APP
-###### Bu projede neler kullandım...
+   ###### Bu projede neler kullandım...
 
 - George Washington
 - John Adams
