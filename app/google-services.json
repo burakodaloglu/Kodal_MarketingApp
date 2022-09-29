@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "700794833659",
+    "project_id": "benim-projem-7b2ba",
+    "storage_bucket": "benim-projem-7b2ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700794833659:android:d54b85d97378960fefbe5e",
+        "android_client_info": {
+          "package_name": "com.burakkodaloglu.benimprojem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700794833659-3qnpfl2kdnd4jub0aggdmnu5qv9bjqp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.burakkodaloglu.benimprojem",
+            "certificate_hash": "4331286de5e2f289923a5ceca516b649a4c5d29d"
+          }
+        },
+        {
+          "client_id": "700794833659-a615mkihijesdng0s47o5qtklg64p825.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuDr7Zei6Ctrn3MZhT5jztsRmP-q_Z2-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700794833659-a615mkihijesdng0s47o5qtklg64p825.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
