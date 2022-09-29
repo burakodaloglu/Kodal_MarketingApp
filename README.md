@@ -1,7 +1,7 @@
 # KODAL MARKETING APP
    ###### Bu projede neler kullandım...
 
-- George Washington
+   - Firebase
 - John Adams
 - Thomas Jefferson
 - 
