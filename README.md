@@ -5,7 +5,7 @@
 ![signin](https://user-images.githubusercontent.com/74530692/193114592-ae59d69c-c452-4d61-bff2-6253523e6a92.png)
 ![signup](https://user-images.githubusercontent.com/74530692/193114596-47879dd6-5b8f-4e39-be01-d0b351b9316c.png)
 <p>
-<img src="[./assets/computer_illustration.jpg](https://user-images.githubusercontent.com/74530692/193114197-de5c746b-8bee-4463-a465-61a94aefa498.png)" height="200rm" align="right">
+<img src=(https://user-images.githubusercontent.com/74530692/193114197-de5c746b-8bee-4463-a465-61a94aefa498.png) height="200rm" align="right">
 
 I am a full-stack web developer and currently learning many things...
 </p>
